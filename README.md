@@ -1,12 +1,4 @@
-<div align="center">
-
 # 👨‍💻 Breno | Desenvolvedor Full Stack em Evolução
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mbrenodev&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbrenodev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&count_private=true)](https://github.com/mbrenodev)
-
-</div>
 
 ---
 
