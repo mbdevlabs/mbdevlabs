@@ -73,16 +73,6 @@ Desenvolvedor **Front-end** com experiência sólida em **React**, **Vue.js** e 
 
 ---
 
-## 📈 Contribuições
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbrenodevs-projects&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mbdevlabs)
-
-</div>
-
----
-
 ## 📬 Vamos Conectar?
 
 <div align="center">
