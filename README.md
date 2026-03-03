@@ -5,7 +5,7 @@ Construo aplicacoes completas — do React/Next.js ao NestJS/Fastify, com Postgr
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbrenodev/)
 [![Email](https://img.shields.io/badge/-mbreno.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mbreno.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-hazel-eight-48.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://mbdevlabs.dev)
 
 ---
 
@@ -31,7 +31,7 @@ Construo aplicacoes completas — do React/Next.js ao NestJS/Fastify, com Postgr
 | [**Upload AI**](https://github.com/mbdevlabs/nlw-upload-ai-mastery) | Upload de videos com transcricao automatica e geracao de conteudo via IA. | React, Fastify, Prisma, OpenAI, ffmpeg.wasm |
 | [**NLW Spacetime**](https://github.com/mbdevlabs/nlw-spacetime) | Capsula do tempo — timeline de memorias com fotos, videos e auth GitHub. | Next.js 13, Fastify, Prisma, GitHub OAuth |
 | [**Move.it**](https://github.com/mbdevlabs/nlw-mode.it) | Pomodoro com exercicios fisicos e gamificacao. [Demo](https://moveit-mbreno.vercel.app/) | Next.js, React, NextAuth, TypeScript |
-| [**Portfolio**](https://github.com/mbdevlabs/portfolio) | Site pessoal com CMS headless. [Live](https://portfolio-hazel-eight-48.vercel.app) | Next.js 15, Hygraph, Framer Motion |
+| [**Portfolio**](https://github.com/mbdevlabs/portfolio) | Site pessoal com CMS headless. | Next.js 15, Hygraph, Framer Motion |
 
 ---
 
